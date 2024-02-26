@@ -1,6 +1,6 @@
 # Hi there, I'm William Hobeika! 👋
 
-I'm a software engineer | web developer
+I'm a software Engineer | Web Developer
 
 ## About Me
 
