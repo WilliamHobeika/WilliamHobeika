@@ -12,6 +12,6 @@ I'm a software Engineer | Web Developer
 ## Get in Touch
 
 - LinkedIn: [William Hobeika](https://www.linkedin.com/in/william-hobeika)
-- Instagram: [williamhobeika](https://www.instagram.com/stories/williamhobeika/)
+- Instagram: [williamhobeika](https://www.instagram.com/williamhobeika/)
 
 Let's connect and build something amazing together!
